@@ -4,6 +4,6 @@
 * C/C++, Python, C#, Lua
 * Currently working at the Emergent Media Center in Burlington VT
 
-More info: http://serverdoesnt.works/\
+More info: http://serverdoesnt.works/
 
 Thanks for taking a look!
